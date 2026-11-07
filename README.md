@@ -1,5 +1,8 @@
 # 🔬 NeuroCyto — Blood Cell ML Research Planner
 
+> **© 2026 Husain Naqvi. All rights reserved.** This is a portfolio showcase. Copying, re-uploading or reusing any part of this work without written permission is prohibited — see [LICENSE](LICENSE).
+
+
 A Streamlit app that analyses peripheral blood cell images and generates a complete, 
 paper-backed ML research pipeline for your professor presentation.
 
